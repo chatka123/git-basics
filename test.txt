@@ -1,0 +1,2 @@
+Git fork training lesson
+Fork is the process of cloning repository to your github account
